@@ -1,2 +1,1 @@
 # smart-brain
-This is fully-responsive, mobile-friendly web application that can detect faces in images. Simply copy a URL to an image on the web, and the app will display the picture and outline the faces contained within it. This app was built using the Clarifai API, React.js, Express.js, and SQL. In addition to the main functionality of the program, other features included a user registration and login system as well as a tracker for how many images have been checked on the platform.
